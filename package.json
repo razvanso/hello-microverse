@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/razvanso/hello-microverse/issues"
   },
-  "homepage": "https://github.com/razvanso/hello-microverse#readme"
+  "homepage": "https://github.com/razvanso/hello-microverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.10"
+  }
 }
