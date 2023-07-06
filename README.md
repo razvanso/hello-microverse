@@ -5,7 +5,7 @@
   <img src="Rio_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello, Microverse!</b></h3>
 
 </div>
 
@@ -51,8 +51,6 @@
 <!-- Features -->
 
 ### Key Features<a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Linters]**
 - **[GitHub Actions]**
@@ -116,6 +114,7 @@ The project doesn't do much yet, but you can test its conformance to Microverse'
 ## 🔭 Future Features<a name="future-features"></a>
 
 - [ ] **[Deploy to GitHub Pages]**
+- [ ] **[Add "by Rio" signature]** - in a lack of inspiration, just add something to the HTML file 😼
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
